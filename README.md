@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.
 
 ### ⚙️ &nbsp;GitHub Analytics
 

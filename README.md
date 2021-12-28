@@ -11,7 +11,10 @@
   
 - ⚡ Fun fact: I Watch anime every lunch time.
 -
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills</h2>
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lersilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lersilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <a href= https://github.com/lersilva?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/lersilva?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -27,8 +30,6 @@
 <br>
   <br>
   
-[![AGitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lersilva&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=lersilva&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lersilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lersilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |

@@ -1,15 +1,7 @@
-### Hi there 👋
+### Iaew! 
 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.
-
-- 🔭 I’m currently working on  NodeJs API'S
-  
-- 🌱 I’m currently learning NodeJS, Go
-    
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: I Watch anime every lunch time.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lersilva&theme=tokyonight) 
